@@ -53,6 +53,10 @@ function updatePortfolio(profileData){
     }).join('')
 }
 
+function updateExperience(profileData){
+    
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
