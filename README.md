@@ -1,4 +1,5 @@
 # Portfólio Pessoal - Felipe Shicasho de Toledo
+https://felipeshicasho.github.io/Felipe-Shicasho-Portifolio/
 ## Este projeto é o meu portfólio pessoal desenvolvido em HTML, CSS e JavaScript, projetado para apresentar minhas habilidades e experiência de forma clara e interativa. A estrutura do código está organizada em diferentes pastas, garantindo separação de preocupações e facilidade na manutenção do projeto.
 
 ## Funcionalidades do Projeto
